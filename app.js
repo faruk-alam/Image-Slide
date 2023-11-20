@@ -1,7 +1,7 @@
 var slide = ["images/germanpic1.jpg","images/germanpic2.jpg","images/germanpic3.jpg"
 ,"images/germanpic4.jpg","images/germanpic5.jpg"];
 var i = 0;
-var time = 2000;
+var time = 900;
 
 function changeImage() {
     document.image.src = slide[i];
